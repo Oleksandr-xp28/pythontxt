@@ -1,0 +1,3 @@
+Hello, world!
+This is a test file.
+We will read its contents and display them on the screen.
